@@ -7,5 +7,4 @@ class variables {
     String LOGO;
     String LOGO_ORIGINAL = "https://ctco.lv/wp-content/themes/ctco-people/img/ctco-logo.svg";
 
-
 }

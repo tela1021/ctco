@@ -23,7 +23,6 @@ public class mainFunc {
 
     }
 
-
     @After
     public void close() {
         driver.close();
