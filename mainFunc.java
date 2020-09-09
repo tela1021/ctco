@@ -33,7 +33,7 @@ public class mainFunc {
     }
 
 
-    //проверяем наличие логотипа банка
+
     public void logoCheck() throws Exception {
         try {
             myVar.LOGO = driver.findElement(myVar.LOGO_SVG).getAttribute("src");
