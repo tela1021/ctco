@@ -7,5 +7,4 @@ public class visualTest extends mainFunc {
         linesCkeck();
     }
 
-
 }

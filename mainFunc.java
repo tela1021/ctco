@@ -43,7 +43,6 @@ public class mainFunc {
         } catch (Throwable T) {
             System.out.println("logoCheck - Failed");
         }
-
     }
 
     public void linesCkeck() throws Exception {
