@@ -6,5 +6,4 @@ public class visualTest extends mainFunc {
         logoCheck();
         linesCkeck();
     }
-
 }

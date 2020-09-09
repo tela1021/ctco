@@ -28,7 +28,6 @@ public class mainFunc {
         driver.close();
     }
 
-
     private void openpage() {
         driver.get(myVar.BASE_URL);
     }
