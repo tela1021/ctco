@@ -46,6 +46,7 @@ public class mainFunc {
 
     }
 
+
     public void linesCkeck() throws Exception {
                 try {
             driver.findElement(By.xpath("//a[contains(text(),'Careers')]")).click();
